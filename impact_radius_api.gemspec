@@ -27,6 +27,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "addressable", "~> 2.3", ">= 2.3.6"
   spec.add_dependency "htmlentities", "~> 4.3", ">= 4.3.2"
   spec.add_dependency "httparty", "~> 0.13"
-  spec.add_dependency "json", "~> 1.8", ">= 1.8.1"
+  spec.add_dependency "json", ">= 1.8"
   spec.add_dependency "recursive-open-struct", "~> 1.0", ">= 1.0.5"
 end
